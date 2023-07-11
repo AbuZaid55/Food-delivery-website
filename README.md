@@ -6,7 +6,7 @@ A Simple web page of a food Delivery website
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![zaidwolf github io_Food-delivery-website_](https://github.com/ZaidWolf/Food-delivery-website/assets/115403447/1eb464d2-6fb4-4356-a315-9c12e334a689)
 
 
 ## 🔗 Links
